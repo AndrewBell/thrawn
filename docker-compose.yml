@@ -1,0 +1,5 @@
+version: '2'
+services:
+  thrawn-scraper:
+    build: ./scraper
+    image: recursivechaos/thrawn-scraper
