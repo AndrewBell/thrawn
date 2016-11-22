@@ -1,0 +1,15 @@
+{
+  "name": "thrawn-scraper",
+  "version": "1.0.0",
+  "description": "Slack scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrew@recursivechaos.com",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.6.1",
+    "properties-reader": "0.0.15"
+  }
+}
